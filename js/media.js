@@ -2,7 +2,7 @@ const mediaData = {
   "reels-basic": {
     title: "Basic Edit",
     tagline: "Clean cuts, ready to post",
-    price: 999,
+    price: 250,
     video: "./media/seed-reels-basic.mp4",
     subCategory: "Basic",
     features: [
@@ -13,11 +13,10 @@ const mediaData = {
       "48-hour turnaround"
     ]
   },
-
   "reels-medium": {
     title: "Medium Edit",
     tagline: "Polished pacing with motion",
-    price: 2499,
+    price: 1000,
     video: "./media/seed-reels-medium.mp4",
     subCategory: "Medium",
     features: [
@@ -28,11 +27,10 @@ const mediaData = {
       "2 rounds of revisions"
     ]
   },
-
   "reels-premium": {
     title: "Premium Edit",
     tagline: "Cinematic grade, frame by frame",
-    price: 4999,
+    price: 3000,
     video: "./media/seed-reels-premium.mp4",
     subCategory: "Premium",
     features: [
@@ -47,7 +45,7 @@ const mediaData = {
   youtube: {
     title: "YouTube Video Editing",
     tagline: "Long-form, paced to hold attention",
-    price: 7999,
+    price: 1200,
     video: "./media/seed-youtube.mp4",
     features: [
       "Full long-form narrative edit",
@@ -61,7 +59,7 @@ const mediaData = {
   shootedit: {
     title: "Shoot + Edit Package",
     tagline: "Crew on location, post in-house",
-    price: 24999,
+    price: 1500,
     video: "./media/seed-shootedit.mp4",
     features: [
       "On-location shoot & crew",
